@@ -1,0 +1,11 @@
+{
+  "name": "ktor-ktor-client-websockets-js-legacy",
+  "version": "2.0.0-eap-256",
+  "customFields": {},
+  "main": "ktor-ktor-client-websockets-js-legacy.js",
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

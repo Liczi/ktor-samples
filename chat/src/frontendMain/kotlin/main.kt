@@ -54,6 +54,7 @@ suspend fun sendMessage(client: WsClient, input: HTMLInputElement) {
     }
 }
 
+@JsExport
 fun writeMessage(message: String) {
     val line = document.createElement("p") as HTMLElement
     line.className = "message"
